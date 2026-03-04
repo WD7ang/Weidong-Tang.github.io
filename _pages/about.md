@@ -46,6 +46,20 @@ Proposed a Recurrent Dynamic Submodel (RDS) for efficient Video Object Segmentat
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='images/prcv2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples](https://github.com/WD7ang/Efficient-Video-Object-Segmentation-and-Tracking-with-Recurrent-Dynamic-Submodel)
+
+**Weidong Tang**, Xinyan Wan, Siyu Li, and Xiumei Wang
+
+[**Code**](https://github.com/WD7ang/VAR-Scaling) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Explored inference-time scaling in discrete spaces by mapping them to continuous spaces to obtain density distributions, thereby optimizing the sampling of early coarse-scale features.
+</div>
+</div>
+
+
+
 # 🎖 Honors and Awards
 - *2025.09* Second-Class Scholarship. (5/99)
 
