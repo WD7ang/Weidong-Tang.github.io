@@ -40,12 +40,8 @@ Please feel free to reach out if you’d like to discuss potential collaboration
 
 **Weidong Tang**, Zhiyuan Liang, Xinyan Wan, Chen Zhu, Zhaopan Xu, Pengfei Zhou, Yan Song, Yang You, Wangbo Zhao.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[**Code**](https://github.com/WD7ang/Efficient-Video-Object-Segmentation-and-Tracking-with-Recurrent-Dynamic-Submodel) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Proposed a Recurrent Dynamic Submodel (RDS) for efficient Video Object Segmentation and Tracking (VOST). By integrating temporal-prior-guided global dynamic routing and Importance-aware LoRA (I-LoRA), it achieves an optimal trade-off between performance and FPS using minimal trainable parameters and training data.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
