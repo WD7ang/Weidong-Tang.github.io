@@ -22,7 +22,7 @@ Currently, I am a Research Intern at the HPC-AI Lab, National University of Sing
 
 My research interests lie in Efficient AI, Reinforcement Learning, Multimodal Models and other emerging and exciting fields in AI. I am highly passionate about exploring diverse research directions and am always open to collaborative opportunities. I am actively seeking internship opportunities in the tech industry (Fall 2027) and am open to full-time roles after graduation.
 
-Please feel free to reach out if you’d like to discuss potential collaborations or just chat about research!
+Please feel free to reach out for collaborations or internship opportunities!
 
 
 # 🔥 News
