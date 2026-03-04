@@ -27,8 +27,10 @@ Please feel free to reach out if you’d like to discuss potential collaboration
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2026. (Camera-ready version coming soon).
+- *2026.01*: &nbsp;🎉🎉 I begin my Internship at TeleAI.
 - *2025.08*: &nbsp;🎉🎉 One paper accepted to PRCV 2025.
-
+- *2024.10*: &nbsp;🎉🎉 I joined the HPC-AI Lab at NUS as a Research Intern.
+  
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr2026.png' alt="sym" width="100%"></div></div>
@@ -50,12 +52,5 @@ Please feel free to reach out if you’d like to discuss potential collaboration
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now, Undergraduate Student, School of Telecommunications Engineering, Xidian University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
