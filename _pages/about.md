@@ -29,6 +29,7 @@ Please feel free to reach out if you’d like to discuss potential collaboration
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2026. (Camera-ready version coming soon).
 - *2026.01*: &nbsp;🎉🎉 I begin my Internship at TeleAI.
 - *2025.08*: &nbsp;🎉🎉 One paper accepted to PRCV 2025.
+- *2025.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2025.
 - *2024.10*: &nbsp;🎉🎉 I joined the HPC-AI Lab at NUS as a Research Intern.
   
 # 📝 Selected Publications
@@ -38,7 +39,7 @@ Please feel free to reach out if you’d like to discuss potential collaboration
 
 [Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel](https://github.com/WD7ang/Efficient-Video-Object-Segmentation-and-Tracking-with-Recurrent-Dynamic-Submodel)
 
-**Weidong Tang**, Zhiyuan Liang, Xinyan Wan, Chen Zhu, Zhaopan Xu, Pengfei Zhou, Yan Song, Yang You, Wangbo Zhao.
+**Weidong Tang**, Zhiyuan Liang, Xinyan Wan, Chen Zhu, Zhaopan Xu, Pengfei Zhou, Yan Song, Yang You, Wangbo Zhao†
 
 [**Code**](https://github.com/WD7ang/Efficient-Video-Object-Segmentation-and-Tracking-with-Recurrent-Dynamic-Submodel) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Proposed a Recurrent Dynamic Submodel (RDS) for efficient Video Object Segmentation and Tracking (VOST). By integrating temporal-prior-guided global dynamic routing and Importance-aware LoRA (I-LoRA), it achieves an optimal trade-off between performance and FPS using minimal trainable parameters and training data.
@@ -51,7 +52,7 @@ Proposed a Recurrent Dynamic Submodel (RDS) for efficient Video Object Segmentat
 
 [Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples](https://github.com/WD7ang/Efficient-Video-Object-Segmentation-and-Tracking-with-Recurrent-Dynamic-Submodel)
 
-**Weidong Tang**, Xinyan Wan, Siyu Li, and Xiumei Wang
+**Weidong Tang**, Xinyan Wan, Siyu Li, and Xiumei Wang†
 
 [**Code**](https://github.com/WD7ang/VAR-Scaling) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 Explored inference-time scaling in discrete spaces by mapping them to continuous spaces to obtain density distributions, thereby optimizing the sampling of early coarse-scale features.
