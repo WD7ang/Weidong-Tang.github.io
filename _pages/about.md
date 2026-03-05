@@ -72,7 +72,7 @@ EA-ViT is an efficient adaptation framework for Vision Transformers, enabling a 
 </div>
 
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 - *2025.09*, Second-Class Scholarship. (5/99)
 
 # 📖 Educations
