@@ -42,7 +42,7 @@ Please feel free to reach out for collaborations or internship opportunities!
 **Weidong Tang**, Zhiyuan Liang, Xinyan Wan, Chen Zhu, Zhaopan Xu, Pengfei Zhou, Yan Song, Yang You, Wangbo Zhao†
 
 [**Code**](https://github.com/WD7ang/Efficient-Video-Object-Segmentation-and-Tracking-with-Recurrent-Dynamic-Submodel) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Proposed a Recurrent Dynamic Submodel (RDS) for efficient Video Object Segmentation and Tracking (VOST). By integrating temporal-prior-guided global dynamic routing and Importance-aware LoRA (I-LoRA), it achieves an optimal trade-off between performance and FPS using minimal trainable parameters and training data.
+Proposed a Recurrent Dynamic Submodel for efficient Video Object Segmentation and Tracking. By integrating temporal-prior-guided global dynamic routing and Importance-aware LoRA, it achieves an optimal trade-off between performance and FPS using minimal trainable parameters and training data.
 </div>
 </div>
 
