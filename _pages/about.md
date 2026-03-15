@@ -82,7 +82,7 @@ EA-ViT is an efficient adaptation framework for Vision Transformers, enabling a 
 - *2026.01 – 2026.03*, AI Infra, TeleAI, Beijing.
 
 # 🎖 Selected Honors and Awards
-- *2025.09*, Second-Class Scholarship. (5/99)
+- *2025.09*, Second-Class Academic Scholarship, Xidian University (Ranked 5/99)
 
 # 📖 Educations
 - *2023.09 - Present*, Undergraduate Student, School of Telecommunications Engineering, Xidian University.
