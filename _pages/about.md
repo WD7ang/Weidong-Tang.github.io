@@ -26,7 +26,7 @@ I am currently seeking **research internship opportunities** and **PhD positions
 
 
 # 🔥 News
-- *2026.03*: &nbsp;📄👀 One paper submitted to ACL 2026. Received an overall score of 3.67 and a Best Paper Justification. Final decision pending.
+- *2026.02*: &nbsp;📄👀 One paper submitted to ACL 2026. Received an overall score of 3.67 and a Best Paper Justification. Final decision pending.
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2026. (Camera-ready version coming soon).
 - *2026.01*: &nbsp;🎉🎉 I begin my Internship at TeleAI.
 - *2025.08*: &nbsp;🎉🎉 One paper accepted to PRCV 2025.
