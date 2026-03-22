@@ -42,7 +42,7 @@ I am currently seeking **research internship opportunities** and **PhD positions
 **Weidong Tang**, Zhiyuan Liang, Xinyan Wan, Chen Zhu, Zhaopan Xu, Pengfei Zhou, Yan Song, Yang You, Wangbo Zhao†
 
 [**[PDF]**](https://github.com/WD7ang/Recurrent-Dynamic-Submodel) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**[Github]**](https://github.com/WD7ang/Recurrent-Dynamic-Submodel) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Github]**]
 
 **TL;DR:** Proposed a Recurrent Dynamic Submodel for efficient Video Object Segmentation and Tracking. By integrating temporal-prior-guided global dynamic routing and Importance-aware LoRA, it achieves an optimal trade-off between performance and FPS using minimal trainable parameters and training data.
 </div>
