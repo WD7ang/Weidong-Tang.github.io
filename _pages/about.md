@@ -26,6 +26,7 @@ I am currently seeking **research internship opportunities** and **PhD positions
 
 
 # 🔥 News
+- *Present*: &nbsp;🚀🚀 Having completed several warm-up projects, I am now actively seeking opportunities and resources to develop more representative and impactful research.
 - *2026.04*: &nbsp;🎉🎉 One paper accepted to ACL 2026. (Camera-ready version coming soon).
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2026. (Not publicly available on arXiv yet due to visa-related clearance).
 - *2026.01*: &nbsp;🎉🎉 I begin my Internship at TeleAI.
