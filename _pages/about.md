@@ -99,7 +99,8 @@ Chen Zhu, Wangbo Zhao†, Huiwen Zhang, Samir Khaki, Yuhao Zhou, **Weidong Tang*
 
 # 🌍 Services
 - *2025.06 – Present*, AI Team Lead, 🌊Xidian–Inspur Club.
-
+- Reviewer for ICIC 2026.
+- Reviewer for PRCV 2025, 2026.
 # 💻 Internships
 - *2026.01 – 2026.03*, AI Infra, TeleAI, Beijing.
 
