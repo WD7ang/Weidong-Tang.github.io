@@ -41,7 +41,7 @@ I am currently seeking **research internship opportunities** and **PhD positions
 
 [GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs]
 
-**Weidong Tang**, Jierui Liang, Yueling Hou, Zihan Mei, Zhigang Tian, Licheng Jiao, Can Zhang, Xinyan Wan, Zhiyuan Liang, Pengfei Zhou†, Yang You, Wangbo Zhao†
+**Weidong Tang**, Jierui Liang, Yueling Hou, Zihan Mei, Zhigang Tian, Weicheng Jiao, Can Zhang, Xinyan Wan, Zhiyuan Liang, Pengfei Zhou†, Yang You, Wangbo Zhao†
 
 [**[PDF]**]
 [**[Github]**]
