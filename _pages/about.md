@@ -44,7 +44,7 @@ I am currently seeking **research internship opportunities** and **PhD positions
 **Weidong Tang**, Jierui Liang, Yueling Hou, Zihan Mei, Zhigang Tian, Weicheng Jiao, Can Zhang, Xinyan Wan, Zhiyuan Liang, Pengfei Zhou†, Yang You, Wangbo Zhao†
 
 [**[PDF]**]
-[**[Github]**]
+[**[Dataset]**]
 
 **TL;DR:** We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap.
 </div>
