@@ -36,7 +36,7 @@ I am currently seeking **research internship opportunities** and **PhD positions
   
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ACL2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ACL2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs]
