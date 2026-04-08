@@ -36,6 +36,21 @@ I am currently seeking **research internship opportunities** and **PhD positions
   
 # 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ACL2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs]
+
+**Weidong Tang**, Jierui Liang, Yueling Hou, Zihan Mei, Zhigang Tian, Licheng Jiao, Can Zhang, Xinyan Wan, Zhiyuan Liang, Pengfei Zhou†, Yang You, Wangbo Zhao†
+
+[**[PDF]**]
+[**[Github]**]
+
+**TL;DR:** We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
