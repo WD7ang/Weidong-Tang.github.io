@@ -22,7 +22,7 @@ I am currently a Research Intern at the HPC-AI Lab, National University of Singa
 
 My research interests include **MLLM**, **RL**, **Efficient AI** and other emerging areas in AI. I enjoy exploring diverse research directions and collaborating with researchers across different fields.
 
-I am currently seeking **research internship opportunities** and **PhD positions**. Feel free to reach out if you are interested in collaboration or potential opportunities.
+I am currently seeking **research internship opportunities**. Feel free to reach out if you are interested in collaboration or potential opportunities.
 
 
 # 🔥 News
