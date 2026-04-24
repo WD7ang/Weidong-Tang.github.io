@@ -27,7 +27,7 @@ I am currently seeking **research internship opportunities** and **PhD positions
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 I will begin my intership at Alibaba Group.
-- *2026.04*: &nbsp;🎉🎉 Two paper accepted to ACL 2026. (Camera-ready version coming soon).
+- *2026.04*: &nbsp;🎉🎉 Two paper accepted to ACL 2026. (Not publicly available on arXiv yet due to visa-related clearance).
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2026. (Not publicly available on arXiv yet due to visa-related clearance).
 - *2026.01*: &nbsp;🎉🎉 I begin my internship at TeleAI.
 - *2025.08*: &nbsp;🎉🎉 One paper accepted to PRCV 2025.
