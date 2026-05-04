@@ -26,7 +26,7 @@ I am currently seeking **research internship opportunities**. Feel free to reach
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 I will begin my intership at Alibaba Group.
+- *2026.05*: &nbsp;🎉🎉 I begin my intership at Alibaba Group.
 - *2026.04*: &nbsp;🎉🎉 Two paper accepted to ACL 2026. (Not publicly available on arXiv yet due to visa-related clearance).
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2026. (Not publicly available on arXiv yet due to visa-related clearance).
 - *2026.01*: &nbsp;🎉🎉 I begin my internship at TeleAI.
@@ -103,6 +103,7 @@ Chen Zhu, Wangbo Zhao†, Huiwen Zhang, Samir Khaki, Yuhao Zhou, **Weidong Tang*
 - Reviewer for PRCV 2025, 2026.
 
 # 💻 Internships
+- *2026.05 – Present*, MLLM, Alibaba Group, Hangzhou.
 - *2026.01 – 2026.03*, AI Infra, TeleAI, Beijing.
 
 # 🎖 Selected Honors and Awards
